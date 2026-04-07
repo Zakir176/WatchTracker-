@@ -35,7 +35,7 @@ A beautiful, responsive web application for tracking your movies and anime watch
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/watchtracker.git
+   git clone https://github.com/Zakir176/watchtracker.git
    cd watchtracker
    ```
 
@@ -209,7 +209,7 @@ SOFTWARE.
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Zakir Motala** - *Initial work* - [YourGitHub](https://github.com/Zakir176)
 
 ## 🙏 Acknowledgments
 
@@ -225,8 +225,8 @@ SOFTWARE.
 ## 🔗 Links
 
 - **Live Demo**: [Add your GitHub Pages link here]
-- **Report Issues**: [GitHub Issues](https://github.com/yourusername/watchtracker/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/watchtracker/discussions)
+- **Report Issues**: [GitHub Issues](https://github.com/Zakir176/watchtracker/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Zakir176/watchtracker/discussions)
 
 ---
 
